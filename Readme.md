@@ -4,7 +4,7 @@
   
 <div align="center">
   
-  <h2>How you doin'? <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+  <font size="250px">How you doin'? <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></font>
 
   Welcome to my Github.
   </div>
