@@ -1,11 +1,15 @@
 
 
   <img src="Headder.png" width="100%" />
-  <p align="center">
+  
+<div align="center">
   
   <h2>How you doin'? <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
   Welcome to my Github.
+  </div>
+  
+  <p align='center'>
   
   You can also find me at:
   <br/><br/>
@@ -31,7 +35,6 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=jlohani&count_private=true&show_icons=true" height="170px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlohani&layout=compact" height="170px">
-  </p>
   <img src="Footer.png" width="100%" />
 
 
