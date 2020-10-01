@@ -1,6 +1,8 @@
-<p align="center">
+<center>
 
-<h2> Hey there. How you doin'? <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+  <img src="Headder.png" width="100%" />
+  
+  <h2>How you doin'? <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
   Welcome to my Github.
   
@@ -28,4 +30,7 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=jlohani&count_private=true&show_icons=true" height="170px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlohani&layout=compact" height="170px">
-</p>
+  
+  <img src="Footer.png" width="100%" />
+
+</center>
