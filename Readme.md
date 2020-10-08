@@ -9,8 +9,8 @@
   Welcome to my Github.
   </div>
   
-  <p align='center'>
   
+  <div align="center">
   You can also find me at:
   <br/><br/>
   <a title="DEV.to" href="https://dev.to/jlohani">
@@ -35,6 +35,7 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=jlohani&count_private=true&show_icons=true" height="170px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlohani&layout=compact" height="170px">
+  </div>
   <img src="Footer.png" width="100%" />
 
 
