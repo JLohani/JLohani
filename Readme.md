@@ -10,7 +10,7 @@
   <text>C | C++ | C# | Java | HTML | CSS </text>
   <br/><br/>
 
-  <text><b>connect with me</b></text>
+  <text><b>You can also find me at</b></text>
   <br/>
   <!--
   <a title="View my website" href="STILL PENDING">
