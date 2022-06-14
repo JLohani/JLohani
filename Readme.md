@@ -33,9 +33,6 @@
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" width="50" height="50" />
   </a>
 
-  <a title="View my Instagram profile" href="https://instagram.com/jayant.lohani">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Instagram-512.png" width="50" height="50" />
-  </a>
   <!--
     <a title="Ping me on Telegram" href="https://t.me/JayantLohani">
       <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_telegram_Airplane_Air_plane_paper_airplane-22-512.png" width="50" height="50"      />
