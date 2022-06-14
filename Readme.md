@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 
   <text><b>currently working with</b></text>
   <br/>
@@ -46,4 +46,4 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlohani&layout=compact&theme=algolia" height="170px">
 
-</p>
+</div>
